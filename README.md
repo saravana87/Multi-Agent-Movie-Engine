@@ -8,7 +8,7 @@ Each agent has a specific responsibility — from searching movie details to ext
 
 ## 🧠 How It Works
 
-We build a team of three agents using `FunctionAgent` from LlamaIndex:
+Its a team of three agents using `FunctionAgent` from LlamaIndex:
 
           ┌─────────────┐
           │ User Prompt │
